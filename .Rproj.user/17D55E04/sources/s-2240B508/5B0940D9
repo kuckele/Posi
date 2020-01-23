@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579739169407.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2606914258",
+    "id" : "5B0940D9",
+    "lastKnownWriteTime" : 1579807563,
+    "last_content_update" : 1579807563889,
+    "path" : "~/Posi/ssc 442 in class assigment.R",
+    "project_path" : "ssc 442 in class assigment.R",
+    "properties" : {
+        "cursorPosition" : "22,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
